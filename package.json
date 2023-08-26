@@ -10,6 +10,16 @@
     "Themes"
   ],
   "icon": "./icons/Daira.ico",
+  "author": {
+    "name": "Javier Sanchez",
+    "email": "jsanchez@dairaitgroups.com.ar",
+    "url": "https://dairaitgroup.com.ar/"
+  },
+  "repository": {
+    "url": "https://github.com/javieh2022/daira-theme.git",
+    "type": "git"
+  },
+  "publisher": "dairaitgroup",
   "contributes": {
     "themes": [
       {
