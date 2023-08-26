@@ -1,0 +1,22 @@
+{
+  "name": "daira-theme",
+  "displayName": "DAIRA-Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "./icons/Daira.ico",
+  "contributes": {
+    "themes": [
+      {
+        "label": "DAIRA",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DAIRA-color-theme.json"
+      }
+    ]
+  }
+}
