@@ -9,7 +9,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "./icons/Daira.ico",
+  "icon": "icons/Daira.ico",
   "author": {
     "name": "Javier Sanchez",
     "email": "jsanchez@dairaitgroups.com.ar",
